@@ -3,8 +3,6 @@
 
 <p align="center"> <img src="https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif" alt="rajsourodip_gif" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajsourodip" alt="rajsourodip" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/40sourodip" target="blank"><img src="https://img.shields.io/twitter/follow/40sourodip?logo=twitter&style=for-the-badge" alt="40sourodip" /></a> </p>
 
 - 🔭 I’m currently working on **Web3 project for EthGlobal**
